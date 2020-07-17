@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on examples for [Ionic Costa Rica](https://www.meetup.com/Ionic-Costa-Rica) and web animations
 - 🌱 I’m currently learning React and web animations
 - 💬 Ask me about Ionic, Angular, Firebase, web animations, running 
